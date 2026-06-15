@@ -1,5 +1,4 @@
 # CCNA Lab Day 3 – Advanced Trunking (Native VLAN and Allowed VLANs)
-
 ## Overview
 
 This lab focuses on advanced trunking concepts used in enterprise networks. The objective is to understand how VLAN traffic travels between switches, how Native VLANs work, how to restrict VLAN traffic using allowed VLAN lists, and how to troubleshoot common trunk-related issues.
